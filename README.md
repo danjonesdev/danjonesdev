@@ -1,6 +1,6 @@
 ### danjonesdev
 
-🔭 Currently projects:
+🔭 Current projects:
 
 - [Next.js Boilerplate](https://github.com/danjonesdev/next-boilerplate)
 - [Next.js Pattern Library](https://github.com/danjonesdev/next-pattern-library)
